@@ -1,4 +1,4 @@
-### HelLo I’m Douglas Basilio 🤚
+### HelLo I’m Douglas Basilio 🖐️
 🔭 I’m currently looking for a front-end developer career
 
 🌱 I’m currently learning Javascript
