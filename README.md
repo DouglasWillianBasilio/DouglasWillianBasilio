@@ -4,7 +4,7 @@
 🌱 I’m currently learning Javascript
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/douglaswillianb/)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCKBQEcYRdFw6E4wwec4S7Sg)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@douglaswillian95)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglas-basilio-459a6a1bb/)
 
 ![Douglas GitHub stats](https://github-readme-stats.vercel.app/api?username=DouglasWillianBasilio&show_icons=true&theme=dracula)
