@@ -9,6 +9,8 @@
 
 ![Douglas GitHub stats](https://github-readme-stats.vercel.app/api?username=DouglasWillianBasilio&show_icons=true&theme=dracula)
 
+![Douglas GitHub stats](https://github-readme-stats.vercel.app/api?username=DouglasWillianBasilio&show_icons=true&theme=dracula)
+
 
 !!
 
