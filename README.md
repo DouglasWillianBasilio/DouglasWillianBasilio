@@ -7,9 +7,12 @@
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@douglaswillian95)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglas-basilio-459a6a1bb/)
 
-![Douglas GitHub stats](https://github-readme-stats.vercel.app/api?username=DouglasWillianBasilio&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasWillianBasilio&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Douglas GitHub stats](https://github-readme-stats.vercel.app/api?username=DouglasWillianBasilio&show_icons=true&theme=transparent)
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasWillianBasilio&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 !!
