@@ -2,7 +2,7 @@
     ### HelLo I’m Douglas Basilio 🖐️
     🔭 I’m currently looking for a front-end developer career
     
-    🌱 I’m currently learning Kotlin
+    🌱 I’m currently learning React
     
     
 <a href="https://www.instagram.com/douglaswillianb/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
