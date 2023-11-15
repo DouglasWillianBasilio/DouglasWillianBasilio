@@ -50,11 +50,3 @@ Estou sempre em busca de desafios e oportunidades para aprender e crescer. Se vo
   </a>
 </p>
 
-
-
-<p align="center">
-  <img
-    src="https://profile-counter.glitch.me/victormoreiraofc/count.svg"
-    alt="Ilustração do número de visitantes no perfil"
-  />
-</p>
