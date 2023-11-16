@@ -46,7 +46,7 @@ Estou sempre em busca de desafios e oportunidades para aprender e crescer. Se vo
 
 <p align="center">
   <a href="https://github.com/iuricode">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=synthwave" alt="iuricode's GitHub Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasWillianBasilio&hide=html&layout=compact&theme=synthwave" alt="iuricode's GitHub Stats"/>
   </a>
 </p>
 
