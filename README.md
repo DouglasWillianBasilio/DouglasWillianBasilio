@@ -3,9 +3,9 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-   Sou de Londrina-PR, tenho 28 anos e sou Desenvolvedor Front-End. Apaixonado por tecnologia, animes, gadgets, series e filmes.
+   Sou de Londrina-PR, tenho 28 anos e sou Desenvolvedor Mobile. Apaixonado por tecnologia, animes, gadgets, series e filmes.
 
-Graduando em Análise e Desenvolvimento de Sistemas no IFPR de Londrina, e atualmente estou empenhado em aprimorar minhas habilidades como desenvolvedor. Estou realizando cursos da Alura para melhorar minhas Skills em Front end e já dando aquela olhadinha no conteúdo de Back end.
+Graduando em Análise e Desenvolvimento de Sistemas no IFPR de Londrina, e atualmente estou empenhado em aprimorar minhas habilidades como desenvolvedor. Estou realizando cursos da Alura para melhorar minhas Skills em Mobile.
 
 Estou sempre em busca de desafios e oportunidades para aprender e crescer. Se você estiver interessado em colaborar, compartilhar ideias ou apenas conversar sobre codigos, animes, filmes e qualquer coisa do mundo geek e nerd, não hesite em entrar em contato comigo. Adoro conhecer novas pessoas e explorar maneiras de tornar o mundo digital um lugar melhor.
 </p>
@@ -14,13 +14,13 @@ Estou sempre em busca de desafios e oportunidades para aprender e crescer. Se vo
  ## 🦄 Linguagens : </strong>
 
  <div style="display: flex; flex-direction: row;">
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
   <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </div>
 
 
