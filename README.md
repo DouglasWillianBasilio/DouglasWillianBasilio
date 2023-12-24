@@ -9,7 +9,7 @@ Graduando em Análise e Desenvolvimento de Sistemas no IFPR de Londrina, e atual
 
 Estou sempre em busca de desafios e oportunidades para aprender e crescer. Se você estiver interessado em colaborar, compartilhar ideias ou apenas conversar sobre codigos, animes, filmes e qualquer coisa do mundo geek e nerd, não hesite em entrar em contato comigo. Adoro conhecer novas pessoas e explorar maneiras de tornar o mundo digital um lugar melhor.
 </p>
-**Este texto estará em negrito**
+
 
  ## 🦄 Linguagens : </strong>
 
