@@ -40,7 +40,7 @@ Estou sempre em busca de desafios e oportunidades para aprender e crescer. Se vo
   <a href="https://api.whatsapp.com/send/?phone=%2B5543991904442&text&type=phone_number&app_absent=0" title="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" alt="WhatsApp"/></a>
 
-  <a href="http://instagram.com/medouglaswillian" title="Instagram">
+  <a href="http://instagram.com/ou.douglas" title="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
 </p>
 
