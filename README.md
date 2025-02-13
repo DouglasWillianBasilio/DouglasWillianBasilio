@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-   Sou de Londrina-PR, tenho 28 anos e sou Desenvolvedor Android. Apaixonado por tecnologia, animes, gadgets, series e filmes.
+   Sou de Londrina-PR, tenho 28 anos e sou Desenvolvedor. Apaixonado por tecnologia, animes, gadgets, series e filmes.
 
 Graduando em Análise e Desenvolvimento de Sistemas no IFPR de Londrina, e atualmente estou empenhado em aprimorar minhas habilidades como desenvolvedor. Estou realizando cursos da Alura para melhorar minhas Skills em Kotlin.
 
