@@ -1,4 +1,4 @@
-## 💜 Olá, mundo meu nome é <strong>Douglas Willian! 👋</strong>
+## ✌️ Olá, mundo meu nome é <strong>Douglas Willian! 👋</strong>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
@@ -11,7 +11,7 @@ Estou sempre em busca de desafios e oportunidades para aprender e crescer. Se vo
 </p>
 
 
- ## 🦄 Linguagens : </strong>
+ ## 😎 Linguagens : </strong>
 
  <div style="display: flex; flex-direction: row;">
   <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
@@ -27,7 +27,7 @@ Estou sempre em busca de desafios e oportunidades para aprender e crescer. Se vo
 
 
 
-  ## 💌 Fique à vontade para entrar em contato: ⤵️ </strong>
+  ## 👇 Fique à vontade para entrar em contato: ⤵️ </strong>
 
 
 <p align="left">
