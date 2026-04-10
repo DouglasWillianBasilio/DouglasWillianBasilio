@@ -47,6 +47,6 @@ Estou sempre em busca de desafios e oportunidades para aprender e crescer. Se vo
 
 <p align="center">
   <a href="https://github.com/DouglasWillianBasilio">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasWillianBasilio&hide=html&layout=compact&theme=synthwave" alt="Linguagens mais usadas por Douglas Willian"/>
+    <img src="https://github-readme-streak-stats-eight.vercel.app/api/top-langs/?username=DouglasWillianBasilio&hide=html&layout=compact&theme=synthwave" alt="Linguagens mais usadas"/>
   </a>
 </p>
