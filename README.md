@@ -45,8 +45,13 @@ Estou sempre em busca de desafios e oportunidades para aprender e crescer. Se vo
 
 ## 📊 Estatísticas do GitHub
 
-<p align="center">
-  <a href="https://github.com/DouglasWillianBasilio">
-    <img src="https://github-readme-streak-stats.vercel.app/api/top-langs/?username=DouglasWillianBasilio&hide=html&layout=compact&theme=synthwave" alt="Linguagens mais usadas"/>
-  </a>
+<p>
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasWillianBasilio&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
 </p>
